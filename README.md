@@ -16,7 +16,7 @@ All you need to do is paste it wherever you want.
 *TL;DR: Just CTRL+C and CTRL+V*
 ## Source Code and AHK Script Download
 
-[**Click here and press the download icon.**](https://github.com/AlsoAStranger/FixSocials-AHK/blob/main/FixSocials.ahk)
+[**Click here and press the download icon.**](https://github.com/JKirchartz/FixSocials-AHK/blob/main/FixSocials.ahk)
 
 Alternatively, copy the code into Notepad and save it as a .ahk file :3
 ## Requirements
